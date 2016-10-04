@@ -2,7 +2,7 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-Get current location of International Space Station (Zarya).
+Get current location of International Space Station (ISS / Zarya).
 
 This project uses the [APIs](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) from Open Notify.
 
